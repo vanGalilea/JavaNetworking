@@ -1,3 +1,1 @@
-# Paths
-# JavaNetworking
 # JavaNetworking
