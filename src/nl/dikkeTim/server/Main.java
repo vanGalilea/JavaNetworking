@@ -1,6 +1,6 @@
-package nl.dikkeTim;
+package nl.dikkeTim.server;
 
-public class Server {
+public class Main {
 
     public static void main(String[] args) {
 
